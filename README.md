@@ -18,13 +18,6 @@ Hello! I'm Brijesh Verma, a passionate tech enthusiast with a keen interest in c
 - Innovation
 - Numerology
 
-### 🌐 Connect with Me
-
-- [GitHub](https://github.com/Brij-star)
-- [LinkedIn](https://www.linkedin.com/in/i-brijesh-verma)
-- [Twitter](https://twitter.com/ubrijeshverma)
-- [Facebook](https://www.facebook.com/profile.php?id=61570814150630)
-- [Instagram](https://www.instagram.com/i_brijesh_verma)
 
 ### 🔗 Projects
 
